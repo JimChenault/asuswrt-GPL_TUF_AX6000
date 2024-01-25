@@ -1,0 +1,4 @@
+# v7.6.2.1 SDK @2022/1/14 (linux 5.4.171)
+# v7.6.4.0 SDK @2022/3/29 (linux 5.4.182)
+# v7.6.4.0-CP1 SDK @2022/3/29 (linux 5.4.182), wifi/warp updated to CP1_20221012
+v7.6.4.0-CP2 SDK @2022/3/29 (linux 5.4.182), wifi firmware CP2_20221125
